@@ -1,3 +1,4 @@
+import java.util.*;
 class Node{                                      // create a  single link list with insertion beginning 
   int data;
   Node address=null;
@@ -26,6 +27,7 @@ class Node{                                      // create a  single link list w
 							start=p;
 						}
 				}
+			SYSTem.out.println("current list is");
 				Node ptr;
 				ptr=start;
 				while(ptr!=null)
