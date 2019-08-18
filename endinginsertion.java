@@ -3,7 +3,7 @@ class node{                                                   // insertion from 
           int data;
           Node address=null;
           }
-  class a3
+  class endinginsertion
   {
   public static void main(String args[])
   {
