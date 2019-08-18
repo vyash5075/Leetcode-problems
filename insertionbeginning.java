@@ -3,7 +3,7 @@ class Node{                                      // create a  single link list w
   int data;
   Node address=null;
   }
-  class a2
+  class insertionbeginning
   {
 		public static void main(String args[])
 		{
