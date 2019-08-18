@@ -3,7 +3,7 @@ class Node{                     //create a link list with 3 nodes
 int data;
 Node address=null;
 }
-  class a1
+  class prelinklist
   {
 		public static void main(String args[])
 	{
