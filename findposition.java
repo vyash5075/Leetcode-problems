@@ -6,7 +6,7 @@
   int data;
   Node address;
   }
-  class a5
+  class findposition
    {
   public static void main(String args[])
   {
