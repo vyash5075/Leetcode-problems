@@ -4,7 +4,7 @@ import java.util.*;
   int data;
   Node address=null;
   }
-  class a4                //to place pointer to the last and second last node
+  class getlastandsecondlast                //to place pointer to the last and second last node
 {
 		public static void main(String args[])
 		{
