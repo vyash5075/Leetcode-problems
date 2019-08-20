@@ -1,5 +1,5 @@
 import java.util.*;
-class node{
+class Node{
     int data;
     Node address=null;
 }
