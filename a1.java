@@ -1,4 +1,5 @@
-class Node{                     //create a link list with 3 nodes
+class Node{ 
+//                    //create a link list with 3 nodes
 int data;
 Node address=null;
 }
