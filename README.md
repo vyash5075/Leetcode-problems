@@ -1,2 +1,2 @@
-# data-structures
+# leetcode-problems
 ds-algorithms.
