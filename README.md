@@ -1,2 +1,2 @@
 # leetcode-problems
-ds-algorithms.
+ds-algorithm.
