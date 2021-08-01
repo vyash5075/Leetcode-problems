@@ -7,6 +7,7 @@ _If you like my content, please leave me a star._ &#9733;
 
 |  #  |      Problem     |   Solutions   | Difficulty  | Tag             
 |-----|------------------|---------------|-------------|------------
+|827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Solution](https://github.com/vyash5075/Leetcode-problems/blob/master/827.java) |Hard|Matrix||
 |1936|[Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1936.java) |Medium|Medium||
 |1935|[Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1935.java) ||Easy|String|
 |1925|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1925.java) ||Easy|Array, Greedy|
