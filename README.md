@@ -6,7 +6,7 @@ _If you like my content, please leave me a star._ &#9733;
 ## Algorithms
 
 |  #  |      Problem     |   Solutions   | Difficulty  | Tag             
-|-----|------------------|---------------|-------------|------------
+|-----|-------------------|---------------|-------------|------------
 |36|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/vyash5075/Leetcode-problems/blob/master/36.java) |Medium|Matrix||
 |112|[Path Sum](https://github.com/vyash5075/Leetcode-problems/blob/master/112.java)|[Solution](https://github.com/vyash5075/Leetcode-problems/blob/master/112.java) |Medium|Trees||
 |113|[Path Sum 2](https://github.com/vyash5075/Leetcode-problems/blob/master/113.java)|[Solution](https://github.com/vyash5075/Leetcode-problems/blob/master/113.java) |Medium|Trees||
